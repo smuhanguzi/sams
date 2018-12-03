@@ -1,0 +1,21 @@
+.fig{
+    display: flex;
+    background: gray;
+    margin: 0px;
+           
+}
+img{
+    padding: 30px;
+    position: sticky;
+    top: 20%;
+    }
+.capt{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+div{
+    background-color: green;
+}
+body{
+    margin:0%;
+}
